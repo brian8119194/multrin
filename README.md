@@ -72,7 +72,7 @@ $ npm run dev
 And in other terminal:
 
 ```bash
-$ npm start
+$ x
 ```
 
 ### Sponsors
